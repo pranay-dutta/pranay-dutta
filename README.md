@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pranay Dutta (Rick)</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Javascript and C++**
 
-- 💬 Ask me about **c,html,css,js**
+- 💬 Ask me about **c,html,css,js,git bash**
 
 - 📫 How to reach me **rick15176@gmail.com**
 
