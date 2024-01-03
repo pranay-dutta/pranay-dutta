@@ -11,13 +11,6 @@ Hi 👋, I'm Pranay Dutta (Rick)<br>A passionate Software developer from India.<
 ![](https://github-readme-stats.vercel.app/api?username=rick-ftw&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rick-ftw&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rick-ftw&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 300px;"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=rick-ftw&icon=0&color=0)](https://visitcount.itsvg.in)
 
