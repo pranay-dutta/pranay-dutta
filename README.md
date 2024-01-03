@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Pranay Dutta (Rick)<br>A passionate Software developer from India.<br><br>- 🌱 I’m currently learning **Javascript and C++**<br><br>- 💬 Ask me about **c,html,css,js,git bash**<br><br>- 📫 How to reach me **rick15176@gmail.com**
+Hi 👋, I'm Pranay Dutta (Rick)<br>A passionate Full stack developer from India.<br><br>- 🌱 I’m currently learning **Javascript and C++**<br><br>- 💬 Ask me about **c,html,css,js,git bash**<br><br>- 📫 How to reach me **rick15176@gmail.com**
 
 
 ## 🌐 Socials:
